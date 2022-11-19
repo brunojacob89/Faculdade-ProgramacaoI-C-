@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "valores-e-referências/1.0.0": {
+        "runtime": {
+          "valores-e-referências.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "valores-e-referências/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

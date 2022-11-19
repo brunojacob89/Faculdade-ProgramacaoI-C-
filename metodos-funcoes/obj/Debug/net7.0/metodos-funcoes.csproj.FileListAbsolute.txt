@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\bin\Debug\net7.0\metodos-funcoes.exe
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\bin\Debug\net7.0\metodos-funcoes.deps.json
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\bin\Debug\net7.0\metodos-funcoes.runtimeconfig.json
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\bin\Debug\net7.0\metodos-funcoes.dll
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\bin\Debug\net7.0\metodos-funcoes.pdb
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.AssemblyInfo.cs
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.dll
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\refint\metodos-funcoes.dll
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.pdb
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\metodos-funcoes.genruntimeconfig.cache
+C:\Users\bruno\Desktop\ADS\Programação I\metodos-funcoes\obj\Debug\net7.0\ref\metodos-funcoes.dll

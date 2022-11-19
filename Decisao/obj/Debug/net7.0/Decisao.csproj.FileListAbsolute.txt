@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\bin\Debug\net7.0\Decisao.exe
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\bin\Debug\net7.0\Decisao.deps.json
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\bin\Debug\net7.0\Decisao.runtimeconfig.json
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\bin\Debug\net7.0\Decisao.dll
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\bin\Debug\net7.0\Decisao.pdb
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.AssemblyInfo.cs
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.dll
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\refint\Decisao.dll
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.pdb
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\Decisao.genruntimeconfig.cache
+C:\Users\bruno\Desktop\ADS\Programação I\Decisao\obj\Debug\net7.0\ref\Decisao.dll
