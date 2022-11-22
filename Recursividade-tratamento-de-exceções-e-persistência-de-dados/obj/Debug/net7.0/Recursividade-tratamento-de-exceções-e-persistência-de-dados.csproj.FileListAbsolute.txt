@@ -1,0 +1,15 @@
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\bin\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.exe
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\bin\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.deps.json
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\bin\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.runtimeconfig.json
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\bin\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.dll
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\bin\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.pdb
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.csproj.AssemblyReference.cache
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.AssemblyInfoInputs.cache
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.AssemblyInfo.cs
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.dll
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\refint\Recursividade-tratamento-de-exceções-e-persistência-de-dados.dll
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.pdb
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\Recursividade-tratamento-de-exceções-e-persistência-de-dados.genruntimeconfig.cache
+C:\Users\BrunoJacob\Documents\ADS\Programação I\Recursividade-tratamento-de-exceções-e-persistência-de-dados\obj\Debug\net7.0\ref\Recursividade-tratamento-de-exceções-e-persistência-de-dados.dll
