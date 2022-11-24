@@ -24,6 +24,10 @@ class Program
         Console.WriteLine("Número invalido!");
        }
        
+       for (int i = -5; i <= 7; i += 3)
+{
+Console.WriteLine (i) ;
+}
       
     }
 }
